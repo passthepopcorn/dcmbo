@@ -1,16 +1,4 @@
-[![Slam](https://imagetot.com/images/2021/06/28/e8155fe3d87a1084d7cda5f4ecc5211c.jpg)](https://telegram.dog/cloudsmirror)
-
-![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/blackdeep04/deepak-clouds-mirror?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/blackdeep04/deepak-clouds-mirror/deepak-clouds-mirror)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/blackdeep04/deepak-clouds-mirror)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/blackdeep04/deepak-clouds-mirror)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/blackdeep04/deepak-clouds-mirror)
-![GitHub contributors](https://img.shields.io/github/contributors/blackdeep04/deepak-clouds-mirror?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/blackdeep04/deepak-clouds-mirror?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/blackdeep04/deepak-clouds-mirror)
-![GitHub](https://img.shields.io/github/license/blackdeep04/deepak-clouds-mirror)
-[![Slam Mirror Support](https://img.shields.io/badge/Deepak%20Clouds%20Mirror-support%20group-blue)](https://telegram.dog/cloudsmirror)
+smirror)
 
 **Deepak Clouds Torrent** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 [Supported Groups](https://telegram.dog/cloudsmirror)
@@ -64,7 +52,7 @@ HFS, LZH, LZMA, LZMA2, MBR, MSI, MSLZ, NSIS,
 NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.
 ```
 
-<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://github.com/passthepopcorn/dcmbo"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 # How to deploy?
 Deploying is pretty much straight forward and is divided into several steps as follows:
